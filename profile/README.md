@@ -12,7 +12,7 @@
 
 ## About KCD Texas
 
-Kubernetes Community Days (KCD) Texas is a **community-driven event** focused on cloud-native technologies, with a particular emphasis on Kubernetes and related tools within the Cloud Native Computing Foundation (CNCF) ecosystem [web:52]. KCD events provide a platform for local practitioners, developers, and enthusiasts to come together to share knowledge, discuss industry trends, and network with one another [web:52].
+Kubernetes Community Days (KCD) Texas is a **community-driven event** focused on cloud-native technologies, with a particular emphasis on Kubernetes and related tools within the Cloud Native Computing Foundation (CNCF) ecosystem [web:52]. KCD events provide a platform for local practitioners, developers, and enthusiasts to come together to share knowledge, discuss industry trends, and network with one another.
 
 ## What We Offer
 
